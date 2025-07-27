@@ -138,8 +138,8 @@ export default function PrivacyPolicyPage() {
           <div className="space-y-4 text-gray-700">
             <p>
               We may update this Privacy Policy from time to time. We will notify you of any
-              material changes by posting the new policy on this page and updating the "Last
-              updated" date.
+              material changes by posting the new policy on this page and updating the &#34;Last
+              updated&#34; date.
             </p>
           </div>
         </section>

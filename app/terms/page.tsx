@@ -22,7 +22,7 @@ export default function TermsOfServicePage() {
           <h2 className="mb-4 text-2xl font-semibold text-gray-900">2. Use License</h2>
           <div className="space-y-4 text-gray-700">
             <p>
-              Permission is granted to temporarily download one copy of the materials on Store's
+              Permission is granted to temporarily download one copy of the materials on Store&#39;s
               website for personal, non-commercial transitory viewing only. This is the grant of a
               license, not a transfer of title, and under this license you may not:
             </p>
@@ -145,9 +145,9 @@ export default function TermsOfServicePage() {
             <p>
               In no event shall Store or its suppliers be liable for any damages (including, without
               limitation, damages for loss of data or profit, or due to business interruption)
-              arising out of the use or inability to use the materials on Store's website, even if
-              Store or a Store authorized representative has been notified orally or in writing of
-              the possibility of such damage.
+              arising out of the use or inability to use the materials on Store&#39;s website, even
+              if Store or a Store authorized representative has been notified orally or in writing
+              of the possibility of such damage.
             </p>
           </div>
         </section>

@@ -27,7 +27,7 @@ export default function ContactPage() {
           </div>
           <h2 className="mb-2 text-2xl font-bold text-green-800">Message Sent Successfully!</h2>
           <p className="mb-4 text-green-700">
-            Thank you for contacting us. We'll get back to you within 24 hours.
+            Thank you for contacting us. We&#39;ll get back to you within 24 hours.
           </p>
           <Button
             onClick={() => setIsSubmitted(false)}
@@ -268,7 +268,7 @@ export default function ContactPage() {
                   className="text-primary focus:ring-primary h-4 w-4 rounded border-gray-300"
                 />
                 <label htmlFor="newsletter" className="ml-2 block text-sm text-gray-700">
-                  I'd like to receive updates about new products and promotions
+                  I&#39;d like to receive updates about new products and promotions
                 </label>
               </div>
 

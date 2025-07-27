@@ -154,13 +154,13 @@ export default function ShippingPage() {
           <h2 className="mb-4 text-2xl font-semibold text-gray-900">Order Tracking</h2>
           <div className="space-y-4 text-gray-700">
             <p>
-              Once your order ships, you'll receive a tracking number via email. You can track your
-              package using:
+              Once your order ships, you&#39;ll receive a tracking number via email. You can track
+              your package using:
             </p>
             <ul className="list-disc space-y-2 pl-6">
               <li>Your account dashboard on our website</li>
               <li>The tracking link in your shipping confirmation email</li>
-              <li>Directly on the carrier's website</li>
+              <li>Directly on the carrier&#39;s website</li>
               <li>Our mobile app (coming soon)</li>
             </ul>
 

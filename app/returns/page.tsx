@@ -4,8 +4,8 @@ export default function ReturnsPage() {
       <div className="prose prose-gray max-w-none">
         <h1 className="mb-8 text-4xl font-bold text-gray-900">Returns & Exchanges</h1>
         <p className="text-muted-foreground mb-8 text-lg">
-          We want you to be completely satisfied with your purchase. If you're not happy with your
-          order, we're here to help with our hassle-free return policy.
+          We want you to be completely satisfied with your purchase. If you&#39;re not happy with
+          your order, we&#39;re here to help with our hassle-free return policy.
         </p>
 
         <section className="mb-8">
@@ -154,14 +154,15 @@ export default function ReturnsPage() {
           <h2 className="mb-4 text-2xl font-semibold text-gray-900">Exchanges</h2>
           <div className="space-y-4 text-gray-700">
             <p>
-              We currently don't offer direct exchanges. If you need a different size, color, or
+              We currently don&#39;t offer direct exchanges. If you need a different size, color, or
               model, please return your original item and place a new order for the item you want.
             </p>
             <div className="rounded-lg border border-blue-200 bg-blue-50 p-4">
               <h3 className="mb-2 font-semibold text-blue-800">💡 Pro Tip</h3>
               <p className="text-blue-700">
                 To ensure you get the item you want quickly, place your new order first, then return
-                the original item. This way, you won't have to wait for the return to be processed.
+                the original item. This way, you won&#39;t have to wait for the return to be
+                processed.
               </p>
             </div>
           </div>
@@ -173,7 +174,7 @@ export default function ReturnsPage() {
             <p>International customers can return items within 30 days of delivery. Please note:</p>
             <ul className="list-disc space-y-2 pl-6">
               <li>
-                Return shipping costs are the customer's responsibility for international orders
+                Return shipping costs are the customer&#39;s responsibility for international orders
               </li>
               <li>Items must be returned to our US warehouse</li>
               <li>Customs duties and taxes are non-refundable</li>
@@ -186,7 +187,7 @@ export default function ReturnsPage() {
           <h2 className="mb-4 text-2xl font-semibold text-gray-900">Damaged or Defective Items</h2>
           <div className="space-y-4 text-gray-700">
             <p>
-              If you receive a damaged or defective item, please contact us immediately. We'll
+              If you receive a damaged or defective item, please contact us immediately. We&#39;ll
               provide:
             </p>
             <ul className="list-disc space-y-2 pl-6">
